@@ -21,8 +21,8 @@ payloads\BackupDB.elf
 payloads\BackupSAV.elf
 payloads\Br_appCache_rm.elf
 payloads\elfldr.elf
-etaHEN-1.8B.bin
-ps5debug.elf
+payloads\etaHEN-1.8B.bin
+payloads\ps5debug.elf
 payloads\ftp-np.elf
 payloads\ftp-p.elf
 payloads\libhijacker-1.160.elf
