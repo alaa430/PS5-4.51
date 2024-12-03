@@ -3,6 +3,7 @@ CACHE MANIFEST
 
 exploit.html
 index.html
+img.jpg
 exp\exploit.js
 exp\int64.js
 exp\rop.js
