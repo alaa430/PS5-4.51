@@ -22,7 +22,7 @@ payloads\BackupDB.elf
 payloads\BackupSAV.elf
 payloads\Br_appCache_rm.elf
 payloads\elfldr.elf
-payloads\etaHEN-1.8B.bin
+payloads\etaHEN 1.9 .bin
 payloads\ps5debug.elf
 payloads\ftp-np.elf
 payloads\ftp-p.elf
