@@ -56,14 +56,3 @@ res\vr.png
 res\wrte.png
 WebBrowser\index.html
 WebBrowser\css\main.css
-alert.mjs
-config.mjs
-psfree.mjs
-module\chain.mjs
-module\constants.mjs
-module\int64.mjs
-module\mem.mjs
-module\memtools.mjs
-module\offset.mjs
-module\rw.mjs
-module\utils.mjs
